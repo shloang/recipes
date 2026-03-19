@@ -1,3 +1,6 @@
-# Holy Molly
+# Guacamole
 ## Ingredients
+* avocado
+* lemon
+* salt
 ## Instructions
